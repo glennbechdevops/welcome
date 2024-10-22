@@ -22,10 +22,12 @@
 * DIYhttps://github.com/glennbechdevops/diy-lambda/blob/main/README.md
 * https://github.com/glennbechdevops/02-CD-AWS-lamda-sls.git
 
-# Lecture 5
+# Lecture 5 Docker og Docker hub
 
 * Slides på Canvas - https://kristiania.instructure.com/courses/12534/files/folder/05
-* DIY https://github.com/glennbechdevops/diy-repo-secrets-aws-cli/blob/main/README.md 
+* Gruppeoppgave https://github.com/glennbechdevops/group-exercise-contrasting-architectures
+* DIY https://github.com/glennbechdevops/diy-repo-secrets-aws-cli/blob/main/README.md
+* LAB https://github.com/glennbechdevops/spring-docker-dockerhub
 
 # Lecture 6
 
@@ -34,7 +36,7 @@
 * DIY Docker https://github.com/glennbechdevops/diy-docker
 * Repeat av forrige lab Lab https://github.com/glennbechdevops/spring-docker-dockerhub
 
-# Lectyre 7 AWS S3 og Terraform  intro
+# Forelesning 7 AWS S3 og Terraform  intro
 
 * Slides på Canvas 
  https://kristiania.instructure.com/courses/12534/files/folder/07
@@ -42,18 +44,15 @@
 AWS S3	
 * https://github.com/glennbechdevops/terraform-s3-website
 
-# Lecture 8 
+# Forelesning 8 
 
 * Slides på Canvas 
  https://kristiania.instructure.com/courses/12534/files/folder/08
 * DIY https://github.com/glennbechdevops/diy-terraform
 * GitHub actions & Terraform - LAB https://github.com/glennbechdevops/terraform-app-runner 
 
-# Lecture 9
+# Forelesning 9
 
 * Terraform state og terraform konfigurasjon - https://github.com/glennbechdevops/terraform-state
-* Gjesteforelesning  
-
-
-# Lecture 9 
+* Gjesteforelesning Unleash.io
 
