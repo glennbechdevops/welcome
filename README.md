@@ -53,6 +53,8 @@
 * https://github.com/glennbechdevops/diy-docker-2/blob/main/README.md
 AWS S3	
 * https://github.com/glennbechdevops/terraform-s3-website
+* Panopto video #1 https://kristiania.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=8b34f3c5-67dc-4204-9457-b2060050132b
+* Panopto video #2 https://kristiania.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=1bc72a09-371b-457d-b94f-b206005014a0
 
 ## Forelesning 8 Terraform, og AWS App runner. Terraform i GitHub Actions 
 
@@ -65,3 +67,5 @@ AWS S3
 
 * Terraform state og terraform konfigurasjon - https://github.com/glennbechdevops/terraform-state
 * Gjesteforelesning Unleash.io
+* Panopto video https://kristiania.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=7f062979-3da3-456f-b30f-b211005ca76f
+* 
