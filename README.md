@@ -17,6 +17,8 @@
 * Slides på Canvas - https://kristiania.instructure.com/courses/12534/files/folder/03
 * DIY Lab https://github.com/glennbechdevops/DIY-branch-protection-and-ci
 * LAB https://github.com/glennbechdevops/sam-lambda-cloud9
+* Panopto video - https://kristiania.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=886a9cc7-8d23-41ed-9906-b1ea00563a83
+  
 
 ## Forelesning 4 - AWS SAM og Lambda i Github actions
 
