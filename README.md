@@ -48,11 +48,9 @@
 
 ## Forelesning 7 AWS S3 og Terraform intro
 
-* Slides på Canvas 
- https://kristiania.instructure.com/courses/12534/files/folder/07
-* https://github.com/glennbechdevops/diy-docker-2/blob/main/README.md
-AWS S3	
-* https://github.com/glennbechdevops/terraform-s3-website
+* Slides på Canvas https://kristiania.instructure.com/courses/12534/files/folder/07
+* DIY Lab https://github.com/glennbechdevops/diy-docker-2/blob/main/README.md
+* AWS S3 -https://github.com/glennbechdevops/terraform-s3-website
 * Panopto video #1 https://kristiania.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=8b34f3c5-67dc-4204-9457-b2060050132b
 * Panopto video #2 https://kristiania.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=1bc72a09-371b-457d-b94f-b206005014a0
 
