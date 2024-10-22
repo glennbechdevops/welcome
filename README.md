@@ -9,8 +9,8 @@
 * Slides på Canvas - https://kristiania.instructure.com/courses/12534/files/folder/02
 * Welcome to Cloud 9 Lab https://github.com/glennbechdevops/00-welcome-to-cloud9
 * Cloud 9 utility repository - https://github.com/glennbechdevops/cloud9_tools
-* Panopto video https://kristiania.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=001433d2-7eb5-48ec-ad2d-b1e300612427
-
+* Panopto video #1 https://kristiania.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=001433d2-7eb5-48ec-ad2d-b1e300612427
+* Panopto video #2 https://kristiania.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=69437a16-2ef1-42d4-8f0d-b1e300612611
 
 ## Forelesning 3  - AWS SAM & Lambda
 
