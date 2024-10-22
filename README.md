@@ -43,6 +43,8 @@
 * DIY Docker https://github.com/glennbechdevops/diy-docker
 * Repeat av forrige lab Lab https://github.com/glennbechdevops/spring-docker-dockerhub
 * Panopto video #1 https://kristiania.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=22feee55-8586-45b8-a8b7-b1f80059367f
+* Panopto video #2 https://kristiania.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=a6b03a9a-97cb-4759-a025-b1fc00601fe3
+  
 
 ## Forelesning 7 AWS S3 og Terraform intro
 
