@@ -25,6 +25,7 @@
 * Slides på Canvas - https://kristiania.instructure.com/courses/12534/files/folder/04
 * DIYhttps://github.com/glennbechdevops/diy-lambda/blob/main/README.md
 * https://github.com/glennbechdevops/02-CD-AWS-lamda-sls.git
+* Panopto video #4 - https://kristiania.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=96f4cf45-16d4-4794-bf4b-b1f100738d43
 
 ## Forelesning 5 Docker og Docker hub
 
@@ -32,6 +33,8 @@
 * Gruppeoppgave https://github.com/glennbechdevops/group-exercise-contrasting-architectures
 * DIY https://github.com/glennbechdevops/diy-repo-secrets-aws-cli/blob/main/README.md
 * LAB https://github.com/glennbechdevops/spring-docker-dockerhub
+* Panopto Video #1 https://kristiania.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=089d2bb0-ec27-4901-b74e-b1f800593529
+* Panopto video #2 https://kristiania.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=22feee55-8586-45b8-a8b7-b1f80059367f  
 
 ## Forelesning 6 - Docker, AWS ECR (Elastic Container Registry)
 
@@ -39,6 +42,7 @@
  https://kristiania.instructure.com/courses/12534/files/folder/06
 * DIY Docker https://github.com/glennbechdevops/diy-docker
 * Repeat av forrige lab Lab https://github.com/glennbechdevops/spring-docker-dockerhub
+* Panopto video #1 https://kristiania.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=22feee55-8586-45b8-a8b7-b1f80059367f
 
 ## Forelesning 7 AWS S3 og Terraform intro
 
