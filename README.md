@@ -1,6 +1,6 @@
-# welcome
+# Oversikt over innhold PGR301
 
-# Forelesning 1
+## Forelesning 1
 
 * Slides på Canvas - https://kristiania.instructure.com/courses/12534/files/folder/01
 
@@ -10,13 +10,13 @@
 * Welcome to Cloud 9 Lab https://github.com/glennbechdevops/00-welcome-to-cloud9
 * Cloud 9 utility repository - https://github.com/glennbechdevops/cloud9_tools
 
-# Forelesning 3 
+# Forelesning 3  - AWS SAM & Lambda
 
 * Slides på Canvas - https://kristiania.instructure.com/courses/12534/files/folder/03
 * DIY Lab https://github.com/glennbechdevops/DIY-branch-protection-and-ci
 * LAB https://github.com/glennbechdevops/sam-lambda-cloud9
 
-# Forelesning 4
+# Forelesning 4 - AWS SAM og Lambda i Github actions
 
 * Slides på Canvas - https://kristiania.instructure.com/courses/12534/files/folder/04
 * DIYhttps://github.com/glennbechdevops/diy-lambda/blob/main/README.md
@@ -29,14 +29,14 @@
 * DIY https://github.com/glennbechdevops/diy-repo-secrets-aws-cli/blob/main/README.md
 * LAB https://github.com/glennbechdevops/spring-docker-dockerhub
 
-# Forelesning 6
+# Forelesning 6 - Docker, AWS ECR (Elastic Container Registry)
 
 * Slides på Canvas 
  https://kristiania.instructure.com/courses/12534/files/folder/06
 * DIY Docker https://github.com/glennbechdevops/diy-docker
 * Repeat av forrige lab Lab https://github.com/glennbechdevops/spring-docker-dockerhub
 
-# Forelesning 7 AWS S3 og Terraform  intro
+# Forelesning 7 AWS S3 og Terraform intro
 
 * Slides på Canvas 
  https://kristiania.instructure.com/courses/12534/files/folder/07
@@ -44,7 +44,7 @@
 AWS S3	
 * https://github.com/glennbechdevops/terraform-s3-website
 
-# Forelesning 8 
+# Forelesning 8 Terraform, og AWS App runner. Terraform i GitHub Actions 
 
 * Slides på Canvas 
  https://kristiania.instructure.com/courses/12534/files/folder/08
@@ -55,4 +55,3 @@ AWS S3
 
 * Terraform state og terraform konfigurasjon - https://github.com/glennbechdevops/terraform-state
 * Gjesteforelesning Unleash.io
-
