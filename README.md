@@ -4,6 +4,7 @@ Tidligere eksamensoppgaver;
 
 * https://github.com/glennbechdevops/eksamen-2023
 * https://github.com/glennbechdevops/72-hr-hjemmeeksamen-2023
+* https://github.com/glennbechdevops/PGR301-konte-2024
   
 ## Forelesning 1
 
