@@ -3,7 +3,8 @@
 Tidligere eksamensoppgaver; 
 
 * https://github.com/glennbechdevops/eksamen-2023
-* 
+* https://github.com/glennbechdevops/72-hr-hjemmeeksamen-2023
+  
 ## Forelesning 1
 
 * Slides på Canvas - https://kristiania.instructure.com/courses/12534/files/folder/01
