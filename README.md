@@ -1,5 +1,9 @@
 # Oversikt over innhold PGR301
 
+Tidligere eksamensoppgaver; 
+
+* https://github.com/glennbechdevops/eksamen-2023
+* 
 ## Forelesning 1
 
 * Slides på Canvas - https://kristiania.instructure.com/courses/12534/files/folder/01
@@ -66,4 +70,4 @@
 * Terraform state og terraform konfigurasjon - https://github.com/glennbechdevops/terraform-state
 * Gjesteforelesning Unleash.io
 * Panopto video https://kristiania.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=7f062979-3da3-456f-b30f-b211005ca76f
-  
+
