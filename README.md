@@ -88,7 +88,9 @@ Tidligere eksamensoppgaver;
 * AWS Lambda - Functions as a service 
 * AWS Comprehend - tekstanalyse 
 * AWS ECR - Elastic Container Service 
-* AWS App Runner - Containers as a service 
+* AWS App Runner - Containers as a service
+* AWS CloudWatch metrics
+* AWS Cloudwatch Alarms 
 
 ## Flow - prinsipper 
 
