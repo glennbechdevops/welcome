@@ -73,7 +73,20 @@ Tidligere eksamensoppgaver;
 * Gjesteforelesning Unleash.io
 * Panopto video https://kristiania.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=7f062979-3da3-456f-b30f-b211005ca76f
 
+
+## Forelesning 10
+
+ * https://kristiania.instructure.com/courses/12534/files/folder/10
+ 
+## Forelesning 11 
+
+* Lab [https://github.com/glennbechdevops/terraform-cloudwatch-dashboard?tab=readme-ov-file#terraform-pro-tip](https://github.com/glennbechdevops/cloudwatch_alarms_terraform)
+* https://kristiania.instructure.com/courses/12534/files/folder/10
+
+
 # Ferdigheter / Sjekkliste PGR301 -24 
+
+
 
 ## Generelt 
 
