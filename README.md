@@ -80,19 +80,17 @@ Tidligere eksamensoppgaver;
  
 ## Forelesning 11 
 
+* Video Forelesninbg #1  https://kristiania.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=dc3d89bb-5f20-4b80-b1f2-b21f00779317
+* Video Forelesning #2 https://kristiania.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=bf53e3ac-d894-4b6e-9234-b21f007794b2
 * Lab [https://github.com/glennbechdevops/terraform-cloudwatch-dashboard?tab=readme-ov-file#terraform-pro-tip](https://github.com/glennbechdevops/cloudwatch_alarms_terraform)
 * https://kristiania.instructure.com/courses/12534/files/folder/10
 
-
 # Ferdigheter / Sjekkliste PGR301 -24 
-
-
 
 ## Generelt 
 
 * Cloud 9 - logge på AWS konto med egen bruker og passord gitt i klasseromet  
 * Skin in the game, hvorfor virker DevOps? 
-
 
 ## AWS tjenester dere vil bli venn med i løpet av semesteret 
 
