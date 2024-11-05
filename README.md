@@ -96,12 +96,13 @@ Tidligere eksamensoppgaver;
 
 * AWS S3 - Simple Storage Service 
 * AWS IAM - Identity and Acccess Management 
-* AWS Lambda - Functions as a service 
+* AWS Lambda - Functions as a service
+* AWS SQS - Simple Queue Service
+* AWS SNS - Simple notification Service
 * AWS Comprehend - tekstanalyse 
 * AWS ECR - Elastic Container Service 
 * AWS App Runner - Containers as a service
-* AWS CloudWatch metrics
-* AWS Cloudwatch Alarms 
+* AWS CloudWatch metrics & Alarms
 
 ## Flow - prinsipper 
 
