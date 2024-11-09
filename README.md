@@ -30,7 +30,7 @@ Tidligere eksamensoppgaver;
 
 * Slides på Canvas - https://kristiania.instructure.com/courses/12534/files/folder/04
 * DIYhttps://github.com/glennbechdevops/diy-lambda/blob/main/README.md
-* https://github.com/glennbechdevops/02-CD-AWS-lamda-sls.git
+* Øving. AWS SAM og GitHub actions https://github.com/glennbechdevops/lambda-sam-githubactions
 * Panopto video #4 - https://kristiania.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=96f4cf45-16d4-4794-bf4b-b1f100738d43
 
 ## Forelesning 5 Docker og Docker hub
