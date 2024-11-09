@@ -62,9 +62,8 @@ Tidligere eksamensoppgaver;
 
 ## Forelesning 8 Terraform, og AWS App runner. Terraform i GitHub Actions 
 
-* Slides på Canvas 
- https://kristiania.instructure.com/courses/12534/files/folder/08
-* DIY https://github.com/glennbechdevops/diy-terraform
+* Slides på Canvas https://kristiania.instructure.com/courses/12534/files/folder/08
+* Terraform & Lambda DIY https://github.com/glennbechdevops/diy-terraform 
 * GitHub actions & Terraform - LAB https://github.com/glennbechdevops/terraform-app-runner 
 
 ## Forelesning 9
