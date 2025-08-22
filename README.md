@@ -1,5 +1,5 @@
 
-# Oversikt over innhold PGR301 - 2024
+# Oversikt over innhold PGR301 - 2025
 
 Tidligere eksamensoppgaver; 
 
@@ -9,4 +9,4 @@ Tidligere eksamensoppgaver;
   
 ## Forelesning 1
 
-* Slides på Canvas - https://kristiania.instructure.com/courses/12534/files/folder/01
+* Slides på Canvas - https://kristiania.instructure.com/files/1673556/download?download_frd=1&verifier=lz28f4qgWFl6MCvJHyp3rEFn7mCILBuPj1XdecU7
