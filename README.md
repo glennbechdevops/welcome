@@ -36,7 +36,7 @@ Tidligere eksamensoppgaver;
 * Video økt 2: [https://kristiania.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=0b27b28f-4950-449c-8d47-b33f00fe7c1d](https://kristiania.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=ddd71015-ff48-4e24-9274-b35600da7ade)
 * Video økt 3: https://kristiania.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=affa1079-1530-42e9-8e40-b35600da9291
 * Øving DIY: https://github.com/glennbechdevops/diy-lambda/blob/main/README.md
-* Øving SAM: https://github.com/glennbechdevops/aws-comprehend-sam-github-actions![Uploading image.png…]()
+* Øving SAM: https://github.com/glennbechdevops/aws-comprehend-sam-github-actions
 
  
 
