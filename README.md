@@ -13,7 +13,8 @@ Tidligere eksamensoppgaver;
   
 * Video økt 1: https://kristiania.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=37a8bb93-8622-427d-9bcc-b33f00fe7ad2
 * Video økt 2: https://kristiania.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=0b27b28f-4950-449c-8d47-b33f00fe7c1d
-* Øving: https://github.com/glennbechdevops/welcome-to-codespaces 
+* Øving: https://github.com/glennbechdevops/welcome-to-codespaces
+
 
 ## Forelesning 2 - Lambda 
 
@@ -21,7 +22,7 @@ Tidligere eksamensoppgaver;
 * Video økt 1:[ https://kristiania.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=37a8bb93-8622-427d-9bcc-b33f00fe7ad2](https://kristiania.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=5e784d0a-b62a-4014-abfb-b34800b79f2b)
 * Video økt 2: [https://kristiania.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=0b27b28f-4950-449c-8d47-b33f00fe7c1d](https://kristiania.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=f54af8ec-78bd-4b87-ba1d-b34800b7a0f2)
 * Video økt 3: https://kristiania.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=8f115ea5-f3ca-4360-ab2d-b34800e6bf87
-* Øving: https://github.com/glennbechdevops/welcome-to-codespaces 
+* S3 i codespaces - https://github.com/glennbechdevops/aws-s3-codespaces
 
 ## Forelesning 3 - GitHub actions 
 
