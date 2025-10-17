@@ -68,9 +68,13 @@ Slides
 
  * Vdeo https://kristiania.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=55d248a0-2040-4179-839a-b36b00d783d0
 
+* DIY Lab !  https://github.com/glennbechdevops/diy-aws-s3-website
+* Lab - Terraform myk start ; https://github.com/glennbechdevops/terraform-s3-website
+
  ## Forelesning 8 - Terraform state & Backend og GitHub Actions
 
-Terraform, state og backends - det er en Lab i starten er dessverre, dere må spole litt for å komme til innholdet - https://kristiania.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=076570a0-fbbf-4acf-a4b3-b37200c778ed
+* Video Terraform, state og backends - det er en Lab i starten er dessverre, dere må spole litt for å komme til innholdet - https://kristiania.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=076570a0-fbbf-4acf-a4b3-b37200c778ed
 
+* Terraform i GitHub actions https://github.com/glennbechdevops/terraform-app-runner
  
 
