@@ -1,4 +1,3 @@
-<img width="662" height="42" alt="image" src="https://github.com/user-attachments/assets/45116121-ddf0-41b9-8ff5-6df9ae132c7a" />
 # Oversikt over innhold PGR301 - 2025
 
 Tidligere eksamensoppgaver; 
