@@ -76,5 +76,8 @@ Slides
 * Video Terraform, state og backends - det er en Lab i starten er dessverre, dere må spole litt for å komme til innholdet - https://kristiania.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=076570a0-fbbf-4acf-a4b3-b37200c778ed
 
 * Terraform i GitHub actions https://github.com/glennbechdevops/terraform-app-runner
- 
+
+ ## Forelesning 9 - LAB day 
+
+ ## Forelesning 10 - Intro til Feedback, Spring boot & Micrometer 
 
