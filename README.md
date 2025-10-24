@@ -120,13 +120,21 @@ Tidligere eksamensoppgaver;
 * Mer Terraform og AWS Apprunner
 * En workflow med to jobber App + infra i GitHub actions 
 
-## Ressurser
+### Ressurser
 
 * Video Terraform, state og backends - det er en Lab i starten er dessverre, dere må spole litt for å komme til innholdet - https://kristiania.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=076570a0-fbbf-4acf-a4b3-b37200c778ed
 * Terraform og AWS Apprunner i GitHub actions https://github.com/glennbechdevops/terraform-app-runner
 
  ## Forelesning 9 - LAB day 
 
- ## Forelesning 10 - Intro til Feedback, Spring boot & Micrometer 
+## Forelesning 10 - Intro til Feedback, Spring boot & Micrometer 
 
- 
+### Konsepter 
+
+
+
+### Ressurser 
+ Video 1  https://kristiania.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=1d768666-27aa-4296-91aa-b38000c65a3a
+ Video 2: https://kristiania.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=4f8d10b9-5f37-4d4d-b345-b38000c65b91
+
+
