@@ -45,6 +45,7 @@
 * Forstå hva hva en Container er i kontekst av virtualisering, og gevinstene docker gir i mikrotjenestearkitektur
 * Docker og Containere, kunne lage en Docker Container fra Spring Boot applikasjon 
 * Docker bygge container image  fra GitHub Actions
+* Forstå Container Images, Layers og Tags - god praksis for tagging
 * Fra egen maskin eller CodeSpaces - Publisere container image til Docker Hub
 * Fra egen maskin eller CodeSpaces - Publisere container image til AWS Elastic Container Registry /ECR 
 * Fra GitHub Actions workflow -  publisere container image til AWS Elastic Container Registry /ECR eller GitLab
