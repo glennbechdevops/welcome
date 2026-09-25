@@ -35,23 +35,22 @@ Inge video
 ### Ressurser 
 
 * Slides på Canvas - [https://kristiania.instructure.com/files/1673556/download?download_frd=1&verifier=lz28f4qgWFl6MCvJHyp3rEFn7mCILBuPj1XdecU7](https://kristiania.instructure.com/courses/14084/files/folder/02)
-* Video økt 1:[ https://kristiania.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=37a8bb93-8622-427d-9bcc-b33f00fe7ad2](https://kristiania.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=5e784d0a-b62a-4014-abfb-b34800b79f2b)
-* Video økt 2: [https://kristiania.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=0b27b28f-4950-449c-8d47-b33f00fe7c1d](https://kristiania.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=f54af8ec-78bd-4b87-ba1d-b34800b7a0f2)
-* Video økt 3: https://kristiania.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=8f115ea5-f3ca-4360-ab2d-b34800e6bf87
-* S3 i codespaces - https://github.com/glennbechdevops/aws-s3-codespaces
+* Video økt 1: https://kristiania.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=d1a71259-8033-4814-b0f2-b4b400ab69eb 
+* Video økt 2: https://kristiania.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=f13d8540-e5de-41a4-80c7-b4b400ab6bc3
 
 ## Forelesning 3 - GitHub actions
 
 * AWS Lambda
 * AWS Sam rammeverket - Serverless Application Model 
-* Branch protection med branch rules.
+* Branch protection med branch rules
 * Kontinuerlig integrasjon  
 
 ## Ressurser
 
-* Slides på Canvas - https://kristiania.instructure.com/files/1673556/download?download_frd=1&verifier=lz28f4qgWFl6MCvJHyp3rEFn7mCILBuPj1XdecU7
-* Video økt 1: [https://kristiania.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=37a8bb93-8622-427d-9bcc-b33f00fe7ad2](https://kristiania.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=455fa07c-38fb-4906-bdd2-b34800b7b000)
-* Video økt 2: [https://kristiania.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=0b27b28f-4950-449c-8d47-b33f00fe7c1d](https://kristiania.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=50899e31-e418-4c8f-9a3f-b34800b7b173)
+* Slides på Canvas - * Slides på Canvas - https://kristiania.instructure.com/courses/14084/files/folder/03
+
+* Video økt 1: [[https://kristiania.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=37a8bb93-8622-427d-9bcc-b33f00fe7ad2](https://kristiania.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=455fa07c-38fb-4906-bdd2-b34800b7b000)](https://kristiania.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=b22528d5-750f-4e5c-870a-b4bb007f8a3d)
+* Video økt 2:[ [https://kristiania.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=0b27b28f-4950-449c-8d47-b33f00fe7c1d](https://kristiania.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=50899e31-e418-4c8f-9a3f-b34800b7b173)](https://kristiania.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=957dba4e-77c5-451e-911a-b4bb007f8b7d)
 
 * https://github.com/glennbechdevops/aws-comprehend-sam-github-actions
 
@@ -65,10 +64,11 @@ Inge video
 
 ### Ressurser
 
-* Slides på Canvas - https://kristiania.instructure.com/files/1673556/download?download_frd=1&verifier=lz28f4qgWFl6MCvJHyp3rEFn7mCILBuPj1XdecU7
-* Video økt 1: [https://kristiania.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=37a8bb93-8622-427d-9bcc-b33f00fe7ad2](https://kristiania.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=7f6a844c-ba51-44ca-9e4a-b35600c7da85)
-* Video økt 2: [https://kristiania.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=0b27b28f-4950-449c-8d47-b33f00fe7c1d](https://kristiania.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=ddd71015-ff48-4e24-9274-b35600da7ade)
-* Video økt 3: https://kristiania.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=affa1079-1530-42e9-8e40-b35600da9291
+* Slides på Canvas - * Slides på Canvas - https://kristiania.instructure.com/courses/14084/files/folder/04
+* Video økt 1: [[https://kristiania.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=37a8bb93-8622-427d-9bcc-b33f00fe7ad2](https://kristiania.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=7f6a844c-ba51-44ca-9e4a-b35600c7da85)](https://kristiania.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=d79131f8-04b5-4e68-a9c0-b4c200aa668e)
+* 
+* Video økt 2: [[https://kristiania.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=0b27b28f-4950-449c-8d47-b33f00fe7c1d](https://kristiania.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=ddd71015-ff48-4e24-9274-b35600da7ade)](https://kristiania.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=b55d142a-0b8a-4e05-84ea-b4c200aa6832)
+* 
 * Øving DIY: https://github.com/glennbechdevops/diy-lambda/blob/main/README.md
 * Øving SAM: https://github.com/glennbechdevops/aws-comprehend-sam-github-actions
 
@@ -82,59 +82,11 @@ Inge video
 
 ### Ressurser
 
-* Intro https://kristiania.instructure.com/courses/14084/files/folder/05?preview=1696931
-* Slides https://kristiania.instructure.com/courses/14084/files/folder/05?preview=1696932
-* Video https://kristiania.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=328ba4bd-de73-4359-8bb9-b35d00c27e0d
-* Video https://kristiania.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=328ba4bd-de73-4359-8bb9-b35d00c27e0d
+* Slides på Canvas - * Slides på Canvas - https://kristiania.instructure.com/courses/14084/files/folder/05
+* Video Økt 1: https://kristiania.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=9bbadefd-f694-4f8d-8ade-b4c900958767
+* Video Økt 2: https://kristiania.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=8ac39969-0364-45d5-b589-b4c900958a1b
+
 * Øving https://github.com/glennbechdevops/DIY-branch-protection-and-ci
 * Øving; https://github.com/glennbechdevops/spring-docker-dockerhub
-
- ## Forelesning 6
-
- ( Vi jobbet med Lab og innhold fra Forelesning #5) 
-
- ## Forelesning 7 - Infrastruktur som kode 
-
-### Konseper
-
-* Hva mener vi med infrastruktur og Infrastruk som kode
-* Imperativ ifrastrukturkode vs deklarativ, desired state engine
-* Terraform, init plan, apply
-  
-### Ressurser
-
-* Agenda   https://kristiania.instructure.com/courses/14084/files/folder/07?preview=1724570
-* Intro https://kristiania.instructure.com/courses/14084/files/folder/07?preview=1724572
-* Del 2 https://kristiania.instructure.com/courses/14084/files/folder/07?preview=1724571
-* State og Backend https://kristiania.instructure.com/courses/14084/files/folder/07?preview=1724573
-
- * Vdeo https://kristiania.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=55d248a0-2040-4179-839a-b36b00d783d0
-
-* DIY Lab !  https://github.com/glennbechdevops/diy-aws-s3-website
-* Lab - Terraform myk start ; https://github.com/glennbechdevops/terraform-s3-website
-
-## Forelesning 8 - Terraform state & Backend og GitHub Actions
-
-### Konsepter
-
-* Mer Terraform og AWS Apprunner
-* En workflow med to jobber App + infra i GitHub actions 
-
-### Ressurser
-
-* Video Terraform, state og backends - det er en Lab i starten er dessverre, dere må spole litt for å komme til innholdet - https://kristiania.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=076570a0-fbbf-4acf-a4b3-b37200c778ed
-* Terraform og AWS Apprunner i GitHub actions https://github.com/glennbechdevops/terraform-app-runner
-
- ## Forelesning 9 - LAB day 
-
-## Forelesning 10 - Intro til Feedback, Spring boot & Micrometer 
-
-### Konsepter 
-
-
-
-### Ressurser 
- Video 1  https://kristiania.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=1d768666-27aa-4296-91aa-b38000c65a3a
- Video 2: https://kristiania.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=4f8d10b9-5f37-4d4d-b345-b38000c65b91
 
 
