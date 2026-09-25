@@ -1,4 +1,4 @@
-# Oversikt over innhold PGR301 - 2025
+# Oversikt over innhold PGR301 - 2026
 
 Tidligere eksamensoppgaver; 
 
@@ -16,20 +16,20 @@ Tidligere eksamensoppgaver;
 
 ### Ressurser 
 
-* Slides på Canvas - Velomment til skyen;  https://kristiania.instructure.com/files/1673556/download?download_frd=1&verifier=lz28f4qgWFl6MCvJHyp3rEFn7mCILBuPj1XdecU7
-* Skin in the Game- hvorfor DevOps funker- https://kristiania.instructure.com/courses/14084/files/folder/01?preview=1724567
+* Slides på Canvas - Velommen til skyen;  https://kristiania.instructure.com/courses/15883/files/folder/01
 
-* Video økt 1: https://kristiania.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=37a8bb93-8622-427d-9bcc-b33f00fe7ad2
-* Video økt 2: https://kristiania.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=0b27b28f-4950-449c-8d47-b33f00fe7c1d
+Inge video
+
 * Øving: https://github.com/glennbechdevops/welcome-to-codespaces
-
 
 ## Forelesning 2 - Lambda 
 
+* Slides på Canvas - Velommen til skyen;  https://kristiania.instructure.com/courses/15883/files/folder/02
+  
 ### Konsepter
 
 * AWS Lambda Function as a service
-* AWS S3 - Simple Storage Service
+* AWS S3 - Simple Storage Service for hosting av websider
 * Bruk av AWS CLI, og AWS Configure, IAM Aksessnøkler
 
 ### Ressurser 
