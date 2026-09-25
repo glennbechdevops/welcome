@@ -1,4 +1,4 @@
-# Pensumliste PGR301 -2025
+# Pensumliste PGR301 -2026
 
 ## Generelt 
 
