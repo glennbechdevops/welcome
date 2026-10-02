@@ -116,7 +116,7 @@ Ingen video
 
 ### Øving
 
-* https://github.com/glennbechdevops/diy-aws-s3-website <img width="575" height="42" alt="image" src="https://github.com/user-attachments/assets/3ebca2f6-735d-464a-833f-ac2ba3173401" />
+* https://github.com/glennbechdevops/diy-aws-s3-website 
 * https://github.com/glennbechdevops/terraform-s3-website
   
 ### Video
