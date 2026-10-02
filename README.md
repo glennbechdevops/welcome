@@ -110,8 +110,19 @@ Ingen video
 * https://github.com/glennbechdevops/spring-docker-dockerhub
 * https://github.com/glennbechdevops/docker-ecs-express
 
+## Forelesning 7
+
+* Slides på Canvas - * Slides på Canvas - https://kristiania.instructure.com/courses/14084/files/folder/07
+
+### Øving
+
+* https://github.com/glennbechdevops/diy-aws-s3-website <img width="575" height="42" alt="image" src="https://github.com/user-attachments/assets/3ebca2f6-735d-464a-833f-ac2ba3173401" />
+* https://github.com/glennbechdevops/terraform-s3-website
   
+### Video
 
+* Forelesning #1 https://kristiania.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=fb70eb16-d59b-4a1f-8363-b4d7009a60b6)
+* Forelesning #2 https://kristiania.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=f3d27577-c31b-43ab-bb94-b4d7009a62ca
 
-
+  
 
