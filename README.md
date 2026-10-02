@@ -1,4 +1,4 @@
-<img width="633" height="42" alt="image" src="https://github.com/user-attachments/assets/c4527506-5085-4cca-b5dd-cedce70437dc" /># Oversikt over innhold PGR301 - 2026
+# Oversikt over innhold PGR301 - 2026
 
 Tidligere eksamensoppgaver; 
 
@@ -109,7 +109,7 @@ Ingen video
 
 * https://github.com/glennbechdevops/spring-docker-dockerhub
 * https://github.com/glennbechdevops/docker-ecs-express
-  
+
   
 
 
