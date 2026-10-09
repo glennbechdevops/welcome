@@ -124,5 +124,13 @@ Ingen video
 * Forelesning #1 https://kristiania.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=fb70eb16-d59b-4a1f-8363-b4d7009a60b6)
 * Forelesning #2 https://kristiania.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=f3d27577-c31b-43ab-bb94-b4d7009a62ca
 
+## Forelesning 8 
+* Slides på Canvas - * Slides på Canvas - https://kristiania.instructure.com/courses/14084/files/folder/08
+
+### Øving
+
+* https://github.com/glennbechdevops/diy-terraform
+* https://github.com/glennbechdevops/modules-remote-state
+  
   
 
