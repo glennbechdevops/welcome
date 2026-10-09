@@ -65,7 +65,7 @@ Ingen video
 
 ### Ressurser
 
-* Slides på Canvas - * Slides på Canvas - https://kristiania.instructure.com/courses/15883/files/folder/04
+* Slides på Canvas  - https://kristiania.instructure.com/courses/15883/files/folder/04
 * Video økt 1: [[https://kristiania.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=37a8bb93-8622-427d-9bcc-b33f00fe7ad2](https://kristiania.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=7f6a844c-ba51-44ca-9e4a-b35600c7da85)](https://kristiania.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=d79131f8-04b5-4e68-a9c0-b4c200aa668e)
 * Video økt 2: [[https://kristiania.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=0b27b28f-4950-449c-8d47-b33f00fe7c1d](https://kristiania.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=ddd71015-ff48-4e24-9274-b35600da7ade)](https://kristiania.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=b55d142a-0b8a-4e05-84ea-b4c200aa6832)
 
@@ -112,7 +112,7 @@ Ingen video
 
 ## Forelesning 7
 
-* Slides på Canvas - * Slides på Canvas - https://kristiania.instructure.com/courses/15883/files/folder/07
+* Slides på Canvas - https://kristiania.instructure.com/courses/15883/files/folder/07
 
 ### Øving
 
@@ -125,7 +125,7 @@ Ingen video
 * Forelesning #2 https://kristiania.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=f3d27577-c31b-43ab-bb94-b4d7009a62ca
 
 ## Forelesning 8 
-* Slides på Canvas - * Slides på Canvas - https://kristiania.instructure.com/courses/15883/files/folder/08
+* Slides på Canvas - https://kristiania.instructure.com/courses/15883/files/folder/08
 
 ### Øving
 
