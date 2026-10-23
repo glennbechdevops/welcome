@@ -6,16 +6,16 @@
 * Skin in the game, hvorfor virker DevOps? 
 
 
-## AWS tjenester dere vil bli venn med i løpet av semesteret 
+## AWS tjenester dere må være kjent med
 
 * AWS S3 - Simple Storage Service 
 * AWS IAM - Identity and Acccess Management 
 * AWS Lambda - Functions as a service 
 * AWS Comprehend - tekstanalyse 
-* AWS ECR - Elastic Container Service 
+* AWS ECR - Elastic Container Registry 
 * AWS ECS Express mode - Container deployment
-* AWS SQS
-* AWS SNS
+* AWS SQS - Simple Queue Service
+* AWS SNS - Simple Notification Service
   
 
 ## Flow - prinsipper 
