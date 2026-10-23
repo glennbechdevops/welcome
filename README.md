@@ -138,6 +138,6 @@ Ingen video
 
 ### Video 
 
-https://kristiania.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=2e6ef6db-8f39-4a3f-ab60-b4e5008c6553
+* https://kristiania.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=2e6ef6db-8f39-4a3f-ab60-b4e5008c6553
 
 
