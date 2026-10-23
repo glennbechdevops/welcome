@@ -131,6 +131,13 @@ Ingen video
 
 * https://github.com/glennbechdevops/diy-terraform
 * https://github.com/glennbechdevops/modules-remote-state
-  
-  
+
+## Forelesning 9 - Lab dag, men intro til deployment av containere med ECS 
+
+* Slides på Canvas https://kristiania.instructure.com/courses/15883/files/folder/09
+
+### Video 
+
+https://kristiania.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=2e6ef6db-8f39-4a3f-ab60-b4e5008c6553
+
 
